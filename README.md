@@ -14,7 +14,6 @@ This is an e-commerce site.  It is an amazon clone that allows for the functiona
 
 ###### Back End
 * Firebase
---------------
 * authentication
 * payment capabilities
 * strip
